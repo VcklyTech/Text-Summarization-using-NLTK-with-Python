@@ -13,6 +13,8 @@ you can install the nltk library like this:
 you also need to download the follwing things once:
 
 **nltk.download('punkt')**
+
+
 **nltk.download('stopwords')**
 
 
